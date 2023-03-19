@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### I'm Yeonjun Jung who will be a front-end engineer in the future💻
+
+1. Skills: HTML, CSS, JavaScript, React.js
+2. blog: https://chadolbaegi128.tistory.com/
+
 <!--
 **Chadolbaegi128/Chadolbaegi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
