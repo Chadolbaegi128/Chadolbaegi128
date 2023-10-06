@@ -8,9 +8,8 @@ I'm Yeonjun Jung who will be a front-end engineer in the future💻
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-flat-square&logo=TypeScript&logoColor=ffffff) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-flat-square&logo=Next.js&logoColor=ffffff)
 
 ## Link
-1) blog: https://chadolbaegi128.tistory.com/
-2) Notion: https://www.notion.so/a010901ed77c4b3a9b8741565eae2497
-
+1) blog: [링크](https://chadolbaegi128.tistory.com/)
+2) Notion: [링크](https://yeonjun128.notion.site/deb644c7336d4a4b929e6f822468e11c?pvs=4)
 <!--
 **Chadolbaegi128/Chadolbaegi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
