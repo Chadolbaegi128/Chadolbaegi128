@@ -10,13 +10,13 @@ I'm Yeonjun Jung who will be a front-end engineer in the future💻
 ### Link
 1) [Blog](https://chadolbaegi128.tistory.com/)
 2) [Résumé](https://yeonjun128.notion.site/deb644c7336d4a4b929e6f822468e11c?pvs=4)
-<!--
-**Chadolbaegi128/Chadolbaegi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Github Stat 
 ![Yeonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chadolbaegi128&show_icons=true&theme=radical)
 
 
+<!--
+**Chadolbaegi128/Chadolbaegi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
