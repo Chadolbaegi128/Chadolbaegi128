@@ -15,7 +15,7 @@ I'm Yeonjun Jung who will be a front-end engineer in the future💻
 ![Yeonjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chadolbaegi128&show_icons=true&theme=gruvbox_light)
 
 ### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chadolbaegi128&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chadolbaegi128&layout=compact&theme=gruvbox_light)
 
 <!--
 **Chadolbaegi128/Chadolbaegi128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
