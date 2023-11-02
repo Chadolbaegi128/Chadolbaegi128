@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello, Everyone! 👋
 
 ### Introduction
 I'm Yeonjun Jung who will be a front-end engineer in the future💻
